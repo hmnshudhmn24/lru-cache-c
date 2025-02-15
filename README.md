@@ -27,6 +27,3 @@ Cache State: (3, 30) (2, 20) (1, 10)
 Cache State: (1, 10) (3, 30) (2, 20) 
 Cache State: (4, 40) (1, 10) (3, 30) 
 ```
-
-## License
-MIT License
